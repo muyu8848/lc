@@ -3,7 +3,7 @@
 该项目基于Java开发。 
 
 * 后端采用Spring Boot、Spring Data Jpa、 Redis、Mysql。
-* h5采用vue vant开发。
+* 前端采用Vue、Vant、Quasar。
 * 本项目主要供交流学习，请不要用于商业项目。
 
 ## 联系我们
