@@ -19,19 +19,19 @@
 ## 演示图
 <table>
     <tr>
-        <td><img src="https://github.com/muyu8848/lc/blob/master/img/1.jpg"/></td>
-        <td><img src="https://github.com/muyu8848/lc/blob/master/img/2.jpg"/></td>
-<td><img src="https://github.com/muyu8848/lc/blob/master/img/3.jpg"/></td>
+        <td><img src="https://github.com/muyu8848/lc/blob/main/img/1.jpg"/></td>
+        <td><img src="https://github.com/muyu8848/lc/blob/main/img/2.jpg"/></td>
+<td><img src="https://github.com/muyu8848/lc/blob/main/img/3.jpg"/></td>
     </tr>
 <tr>
-        <td><img src="https://github.com/muyu8848/lc/blob/master/img/4.jpg"/></td>
-        <td><img src="https://github.com/muyu8848/lc/blob/master/img/5.jpg"/></td>
-<td><img src="https://github.com/muyu8848/lc/blob/master/img/6.jpg"/></td>
+        <td><img src="https://github.com/muyu8848/lc/blob/main/img/4.jpg"/></td>
+        <td><img src="https://github.com/muyu8848/lc/blob/main/img/5.jpg"/></td>
+<td><img src="https://github.com/muyu8848/lc/blob/main/img/6.jpg"/></td>
     </tr>
 <tr>
-        <td><img src="https://github.com/muyu8848/lc/blob/master/img/7.jpg"/></td>
-        <td><img src="https://github.com/muyu8848/lc/blob/master/img/8.jpg"/></td>
-<td><img src="https://github.com/muyu8848/lc/blob/master/img/9.jpg"/></td>
+        <td><img src="https://github.com/muyu8848/lc/blob/main/img/7.jpg"/></td>
+        <td><img src="https://github.com/muyu8848/lc/blob/main/img/8.jpg"/></td>
+<td><img src="https://github.com/muyu8848/lc/blob/main/img/9.jpg"/></td>
     </tr>
 	 
 </table>
