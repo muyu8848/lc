@@ -11,29 +11,31 @@
 
 ## 在线体验
   
-##### h5版本：http://45.125.34.26:9001
-测试账号：13533333333，密码：123，支付密码：123456
+##### h5版本：http://45.125.34.26:9028
+测试账号：13511111111@qq.com，密码：123，支付密码：123456
 也可以自行注册账号
-##### 运营后台：http://45.125.34.26:9000/page/login
+##### 运营后台：http://45.125.34.26:9027/page/login
 测试账号：admin，密码：123
+
+黑色风格版本 | [明亮风格版本](./README2.md)
 
 
 ## 演示图
 <table>
     <tr>
-        <td><img src="https://github.com/muyu8848/lc/blob/main/lc2409/1.jpg"/></td>
-        <td><img src="https://github.com/muyu8848/lc/blob/main/lc2409/2.jpg"/></td>
-<td><img src="https://github.com/muyu8848/lc/blob/main/lc2409/3.jpg"/></td>
+        <td><img src="https://raw.githubusercontent.com/muyu8848/lc/refs/heads/main/img2/1.jpg"/></td>
+        <td><img src="https://raw.githubusercontent.com/muyu8848/lc/refs/heads/main/img2/2.jpg"/></td>
+<td><img src="https://raw.githubusercontent.com/muyu8848/lc/refs/heads/main/img2/3.jpg"/></td>
     </tr>
 <tr>
-        <td><img src="https://github.com/muyu8848/lc/blob/main/lc2409/4.jpg"/></td>
-        <td><img src="https://github.com/muyu8848/lc/blob/main/lc2409/5.jpg"/></td>
-<td><img src="https://github.com/muyu8848/lc/blob/main/lc2409/6.jpg"/></td>
+        <td><img src="https://raw.githubusercontent.com/muyu8848/lc/refs/heads/main/img2/4.jpg"/></td>
+        <td><img src="https://raw.githubusercontent.com/muyu8848/lc/refs/heads/main/img2/5.jpg"/></td>
+<td><img src="https://raw.githubusercontent.com/muyu8848/lc/refs/heads/main/img2/6.jpg"/></td>
     </tr>
 <tr>
-        <td><img src="https://github.com/muyu8848/lc/blob/main/lc2409/7.jpg"/></td>
-        <td><img src="https://github.com/muyu8848/lc/blob/main/lc2409/8.jpg"/></td>
-<td><img src="https://github.com/muyu8848/lc/blob/main/lc2409/9.jpg"/></td>
+        <td><img src="https://raw.githubusercontent.com/muyu8848/lc/refs/heads/main/img2/7.jpg"/></td>
+        <td><img src="https://raw.githubusercontent.com/muyu8848/lc/refs/heads/main/img2/8.jpg"/></td>
+<td><img src="https://raw.githubusercontent.com/muyu8848/lc/refs/heads/main/img2/9.jpg"/></td>
     </tr>
 	 
 </table>
